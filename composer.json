@@ -1,0 +1,17 @@
+{
+    "name": "asocial-media/prestashop-module-boilerplate",
+    "type": "project",
+    "description": "The boilerplate for module for PrestaShop 1.5 - 1.7",
+    "keywords": ["prestashop", "module", "boilerplate", "example"],
+    "homepage": "https://asocial.media",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maciej Strączkowski",
+            "email": "biuro@asocial.media"
+        }
+    ],
+    "require": {
+        "asocial-media/prestashop-module-helper": "^1.0"
+    }
+}

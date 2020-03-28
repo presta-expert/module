@@ -1,6 +1,6 @@
 {
     "name": "asocial-media/prestashop-module-boilerplate",
-    "type": "template",
+    "type": "project",
     "description": "The boilerplate for module for PrestaShop 1.5 - 1.7",
     "keywords": ["prestashop", "module", "boilerplate", "example"],
     "homepage": "https://asocial.media",

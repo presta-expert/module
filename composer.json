@@ -13,5 +13,6 @@
     ],
     "require": {
         "asocial-media/prestashop-module-helper": "^1.0"
-    }
+    },
+    "minimum-stability": "stable"
 }

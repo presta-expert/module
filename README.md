@@ -1,6 +1,6 @@
 # README
 
-The boilerplate for module for PrestaShop 1.5 - 1.7 which uses [asocial-media/prestashop-module-helper](https://github.com/asocial-media/prestashop-module-helper).
+The boilerplate for module for PrestaShop 1.5 - 1.7 which uses [presta-expert/module-helper](https://github.com/presta-expert/module-helper).
 
 You can use it to start writing your modules quickly and easily while maintaining the correct directory structure.
 
@@ -12,16 +12,16 @@ You can use it to start writing your modules quickly and easily while maintainin
 ## Installation
 
 ```bash
-$ composer create-project asocial-media/prestashop-module-boilerplate mycustommodule
+$ composer create-project presta-expert/module mycustommodule
 ```
 
 Then you need to rename the file *name_of_module.php* to the name of your module, similarly change the name of class inside this file and you are ready to go.
 
 ```php
-class NameOfModule extends \AsocialMedia\Prestashop\Helper\AbstractModule
+class NameOfModule extends \PrestaExpert\Helper\AbstractModule
 ```
 
-Note that your module extends *\AsocialMedia\Prestashop\Helper\AbstractModule* so you are able to use some helper methods that will make your code better, check README of [asocial-media/prestashop-module-helper](https://github.com/asocial-media/prestashop-module-helper) for details.
+Note that your module extends *\PrestaExpert\Prestashop\Helper\AbstractModule* so you are able to use some helper methods that will make your code better, check README of [presta-expert/module-helper](https://github.com/presta-expert/module-helper) for details.
 
 More information about creating Prestashop modules you can find here:
 
@@ -30,7 +30,7 @@ More information about creating Prestashop modules you can find here:
 
 ## Authors
 
-- Maciej Strączkowski <biuro@asocial.media>
+- [Presta.Expert](https://presta.expert) Team
 
 ## License
 

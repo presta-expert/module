@@ -1,18 +1,18 @@
 {
-    "name": "asocial-media/prestashop-module-boilerplate",
+    "name": "presta-expert/module",
     "type": "project",
     "description": "The boilerplate for module for PrestaShop 1.5 - 1.7",
     "keywords": ["prestashop", "module", "boilerplate", "example"],
-    "homepage": "https://asocial.media",
+    "homepage": "https://presta.expert",
     "license": "MIT",
     "authors": [
         {
             "name": "Maciej Strączkowski",
-            "email": "biuro@asocial.media"
+            "email": "support@presta.expert"
         }
     ],
     "require": {
-        "asocial-media/prestashop-module-helper": "^1.0"
+        "presta-expert/module-helper": "^1.0"
     },
     "minimum-stability": "stable"
 }
